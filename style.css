@@ -12,6 +12,7 @@ body { margin: 0; font: 16px/1.3 sans-serif; }
 .CSSgal {
     position: relative;
     overflow: hidden;
+    margin: 5px;
     height: 100%; /* Or set a fixed height */
 }
 
@@ -225,8 +226,8 @@ CSSgal CUSTOM STYLES / OVERRIDES HERE: */
 .CSSgal{
     color: #fff;	
     text-align: center;
-    width: 50%;
-    margin: 0 auto;
+    width: 80%;
+    margin: auto;
 }
 .CSSgal .slider h2 {
     margin-top: 40vh;
